@@ -10,4 +10,4 @@ To test, go to the folder on terminal and run a simple server:
 sudo python -m SimpleHTTPServer 80
 ```
   
-Then your browser on http://localhost
+Then point your browser to http://localhost
