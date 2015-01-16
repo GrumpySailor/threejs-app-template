@@ -5,6 +5,9 @@ index.html file containing [Three.js](https://github.com/mrdoob/three.js/), [dat
 
 
 To test, go to the folder on terminal and run a simple server:
-  sudo python -m SimpleHTTPServer 80
+
+```
+sudo python -m SimpleHTTPServer 80
+```
   
-Open your browser on http://localhost
+Then your browser on http://localhost
